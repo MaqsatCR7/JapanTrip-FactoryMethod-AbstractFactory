@@ -1,0 +1,1 @@
+# JapanTrip-FactoryMethod-AbstractFactory
